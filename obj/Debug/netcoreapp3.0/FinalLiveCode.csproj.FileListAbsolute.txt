@@ -1,0 +1,11 @@
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\bin\Debug\netcoreapp3.0\FinalLiveCode.exe
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\bin\Debug\netcoreapp3.0\FinalLiveCode.deps.json
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\bin\Debug\netcoreapp3.0\FinalLiveCode.runtimeconfig.json
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\bin\Debug\netcoreapp3.0\FinalLiveCode.runtimeconfig.dev.json
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\bin\Debug\netcoreapp3.0\FinalLiveCode.dll
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\bin\Debug\netcoreapp3.0\FinalLiveCode.pdb
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\obj\Debug\netcoreapp3.0\FinalLiveCode.csprojAssemblyReference.cache
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\obj\Debug\netcoreapp3.0\FinalLiveCode.AssemblyInfoInputs.cache
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\obj\Debug\netcoreapp3.0\FinalLiveCode.AssemblyInfo.cs
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\obj\Debug\netcoreapp3.0\FinalLiveCode.dll
+C:\Users\Ariadna\lc101\live_coding\LiveCodingTempFinal\FinalLiveCode\obj\Debug\netcoreapp3.0\FinalLiveCode.pdb
